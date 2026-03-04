@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCvcNWZo_pFpGly6_qZFry_7hrCtQIDT64</string>
+	<key>GCM_SENDER_ID</key>
+	<string>523468223941</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>londonquiz.selfclean</string>
+	<key>PROJECT_ID</key>
+	<string>selfclean-prod</string>
+	<key>STORAGE_BUCKET</key>
+	<string>selfclean-prod.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false />
+	<key>IS_ANALYTICS_ENABLED</key>
+	<true />
+	<key>IS_APPINVITE_ENABLED</key>
+	<true />
+	<key>IS_GCM_ENABLED</key>
+	<true />
+	<key>IS_SIGNIN_ENABLED</key>
+	<true />
+	<key>GOOGLE_APP_ID</key>
+	<string>1:523468223941:ios:ae1a7b2e33eac4723987ac</string>
+</dict>
+</plist>
